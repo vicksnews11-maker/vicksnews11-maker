@@ -13,5 +13,3 @@ I'm currently working as devops engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vicksnews11-maker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vicksnews11-maker&icon=0&color=0)](https://visitcount.itsvg.in)
-
